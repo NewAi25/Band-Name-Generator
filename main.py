@@ -1,0 +1,1 @@
+print("Here is your new Band name: " + input("Enter your favourite colour: ") + input("Enter your favourite Animal or flower or any living organism: "))
