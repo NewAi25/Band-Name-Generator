@@ -1,4 +1,4 @@
-# printing an welcome message for the user #
+# printing a welcome message for the user #
 print ("Welcome to the Band Name Generator")
 # Asking for user input #
 Colour= input("Enter your favourite colour: \n")
